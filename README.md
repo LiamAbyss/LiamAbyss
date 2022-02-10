@@ -3,7 +3,7 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
 C++      7 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   33.87 % 
 Python   5 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
