@@ -3,7 +3,7 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
 Python   6 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   41.35 % 
 Java     5 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.98 % 
