@@ -3,7 +3,7 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
 Java               6 hrs 6 mins    ███████████████▒░░░░░░░░░   61.57 % 
 VTL                1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 % 
