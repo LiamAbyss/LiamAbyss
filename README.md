@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
 C++      2 hrs 36 mins   ████████████████████▒░░░░   81.42 %
 Python   24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
