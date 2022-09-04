@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 31 August 2022
+From: 26 August 2022 - To: 02 September 2022
 
-C++    2 hrs 1 min     ██████████████████████▒░░   89.02 %
-JSON   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+C++    4 hrs 29 mins   ██████████████████████▓░░   90.28 %
+JSON   28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
