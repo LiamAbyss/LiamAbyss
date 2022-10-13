@@ -4,7 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 October 2022 - To: 12 October 2022
+
+Rust    27 mins         ██████████████████▓░░░░░░   74.45 %
+TOML    6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+HTML    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
