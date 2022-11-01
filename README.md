@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 October 2022 - To: 30 October 2022
+From: 24 October 2022 - To: 31 October 2022
 
-reStructuredText   50 mins         ███████████▒░░░░░░░░░░░░░   44.92 %
-Markdown           39 mins         ████████▓░░░░░░░░░░░░░░░░   35.06 %
-Other              22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+Markdown           39 mins         █████████▓░░░░░░░░░░░░░░░   39.21 %
+reStructuredText   38 mins         █████████▓░░░░░░░░░░░░░░░   38.39 %
+Other              22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
 ```
 
 <!--END_SECTION:waka-->
