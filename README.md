@@ -4,13 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 06 November 2022 - To: 13 November 2022
 
-Rust               7 hrs 51 mins   ██████████████▒░░░░░░░░░░   57.94 %
-Markdown           1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-reStructuredText   1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Docker             1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Other              58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Java               4 hrs 46 mins   ████████████░░░░░░░░░░░░░   47.94 %
+Rust               2 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+Docker             1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+reStructuredText   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+TOML               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+XML                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
