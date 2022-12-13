@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Rust       2 hrs 58 mins   ████████████████████████░   96.31 %
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Rust    1 hr 47 mins    ████████████████████████░   95.57 %
+Other   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
