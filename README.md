@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
 C++      30 mins         ██████████████▒░░░░░░░░░░   56.67 %
 HTML     11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
