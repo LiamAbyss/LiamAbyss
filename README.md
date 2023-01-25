@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 January 2023 - To: 23 January 2023
+From: 17 January 2023 - To: 24 January 2023
 
-C++           9 hrs 20 mins   ████████████████████░░░░░   79.57 %
-XML           2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+C++           9 hrs 20 mins   ████████████████████░░░░░   79.41 %
+XML           2 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
 Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
