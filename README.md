@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 February 2023 - To: 09 February 2023
+From: 03 February 2023 - To: 10 February 2023
 
-C++                4 hrs 47 mins   ██████████████████████▒░░   88.92 %
-XML                35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C++                3 hrs 33 mins   █████████████████████▓░░░   87.13 %
+XML                30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
