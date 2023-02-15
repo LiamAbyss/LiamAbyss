@@ -4,9 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-No activity tracked
+C++   1 hr 27 mins    ███████████████████████░░   92.16 %
+XML   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
 ```
 
 <!--END_SECTION:waka-->
