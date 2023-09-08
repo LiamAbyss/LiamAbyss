@@ -4,9 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-No activity tracked
+Rust         2 hrs 12 mins   ███████████████████████░░   91.34 %
+HTML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+TOML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
