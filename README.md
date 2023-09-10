@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 Rust         2 hrs 12 mins   ███████████████████████░░   91.34 %
 HTML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
