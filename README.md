@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 25 September 2023
+From: 19 September 2023 - To: 26 September 2023
 
-C++     3 hrs 3 mins    ███████████████████████▒░   93.51 %
-CMake   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C++     2 hrs 14 mins   ███████████████████████░░   91.36 %
+CMake   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
