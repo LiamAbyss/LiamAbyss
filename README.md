@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-C++              7 hrs 1 min     ██████████████████░░░░░░░   72.60 %
-Markdown         2 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-CMake            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+C++              7 hrs 11 mins   ██████████████████░░░░░░░   72.11 %
+Markdown         2 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+CMake            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Ruby             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
