@@ -4,9 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-No activity tracked
+C++        28 mins         ████████████████████████▒   97.93 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Ezhil      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
