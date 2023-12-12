@@ -4,12 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-CMake         40 mins         ████████████████░░░░░░░░░   63.62 %
-C++           22 mins         █████████░░░░░░░░░░░░░░░░   35.84 %
-C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+CMake         21 mins         ████████████████▓░░░░░░░░   66.10 %
+C++           11 mins         ████████▒░░░░░░░░░░░░░░░░   33.61 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
