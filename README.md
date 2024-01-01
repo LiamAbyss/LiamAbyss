@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
 CMake         1 hr 6 mins     ███████████▓░░░░░░░░░░░░░   47.05 %
 C             22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
