@@ -4,9 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2024 - To: 30 April 2024
+From: 24 April 2024 - To: 01 May 2024
 
-No activity tracked
+C++   38 mins         ████████████████████░░░░░   79.73 %
+C     9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.27 %
 ```
 
 <!--END_SECTION:waka-->
