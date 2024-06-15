@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2024 - To: 13 June 2024
+From: 07 June 2024 - To: 14 June 2024
 
 Ruby    5 mins          ███████████▓░░░░░░░░░░░░░   46.84 %
 C++     3 mins          ███████▓░░░░░░░░░░░░░░░░░   31.00 %
