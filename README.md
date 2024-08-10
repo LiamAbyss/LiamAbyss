@@ -4,9 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-No activity tracked
+C++     13 mins         █████████████▓░░░░░░░░░░░   54.42 %
+C       7 mins          ████████░░░░░░░░░░░░░░░░░   32.50 %
+CMake   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
 ```
 
 <!--END_SECTION:waka-->
