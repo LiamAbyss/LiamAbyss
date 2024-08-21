@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
 C++           5 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   44.98 %
 C             3 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
