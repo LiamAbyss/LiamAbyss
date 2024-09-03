@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2024 - To: 01 September 2024
+From: 26 August 2024 - To: 02 September 2024
 
-C++        3 hrs 13 mins   ████████████████▒░░░░░░░░   65.41 %
-C          1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   23.89 %
-Markdown   31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+C++        2 hrs 53 mins   █████████████████░░░░░░░░   67.69 %
+C          1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
+Markdown   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->
