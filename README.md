@@ -4,11 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2024 - To: 27 October 2024
+From: 21 October 2024 - To: 28 October 2024
 
-C++        2 mins          ██████████████████████▒░░   89.42 %
-C          0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
