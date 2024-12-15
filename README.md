@@ -4,11 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Python   1 hr 13 mins    █████████████████████▒░░░   85.14 %
-Text     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
