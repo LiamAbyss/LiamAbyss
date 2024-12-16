@@ -4,9 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 14 December 2024
+From: 08 December 2024 - To: 15 December 2024
 
-No activity tracked
+C++        1 hr 24 mins    ██████████▒░░░░░░░░░░░░░░   41.65 %
+C          1 hr 18 mins    █████████▓░░░░░░░░░░░░░░░   38.81 %
+Python     20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Text       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
