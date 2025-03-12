@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 04 March 2025 - To: 11 March 2025
 
 C++        2 hrs 22 mins   ██████████████████▒░░░░░░   72.81 %
 C/C        31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
