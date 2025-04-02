@@ -4,9 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2025 - To: 31 March 2025
+From: 25 March 2025 - To: 01 April 2025
 
-No activity tracked
+CMake            21 mins         ██████████░░░░░░░░░░░░░░░   39.66 %
+C++              15 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 %
+CMakeLists.txt   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+C                6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+C/C              2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
