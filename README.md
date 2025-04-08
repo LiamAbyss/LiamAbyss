@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
 C++              4 hrs 20 mins   ███████████████████░░░░░░   76.31 %
 CMake            46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
