@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
 JSON               7 mins          ████████████▒░░░░░░░░░░░░   49.97 %
 HTML               6 mins          ██████████▓░░░░░░░░░░░░░░   43.00 %
