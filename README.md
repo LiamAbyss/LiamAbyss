@@ -4,11 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Docker     2 mins          ██████████████░░░░░░░░░░░   56.29 %
-Other      1 min           █████████▒░░░░░░░░░░░░░░░   37.41 %
-Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+GDScript3   28 mins         █████████████████████▓░░░   87.04 %
+Docker      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Other       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Markdown    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
