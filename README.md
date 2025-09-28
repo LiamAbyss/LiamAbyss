@@ -4,12 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-GDScript3   28 mins         █████████████████████▓░░░   87.04 %
-Docker      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Other       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Markdown    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+GDScript3   2 hrs 26 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
