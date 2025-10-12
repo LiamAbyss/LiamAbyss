@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-GDScript3        1 hr 23 mins    ██████████████████▒░░░░░░   73.21 %
-Godot Resource   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Docker           11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-GDScript         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-JSON             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+GDScript3        50 mins         ███████████████████░░░░░░   75.48 %
+Godot Resource   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Batchfile        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
