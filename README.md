@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
 GDScript3   10 mins         ███████████████████░░░░░░   76.26 %
 Batchfile   2 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
