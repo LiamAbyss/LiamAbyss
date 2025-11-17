@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2025 - To: 15 November 2025
+From: 09 November 2025 - To: 16 November 2025
 
-Other            13 mins         ██████████████░░░░░░░░░░░   56.23 %
-GDScript3        4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Godot Resource   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-JSON             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Git              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Other            13 mins         ██████████▓░░░░░░░░░░░░░░   42.12 %
+HTML             7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+GDScript3        4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Godot Resource   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+JSON             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
