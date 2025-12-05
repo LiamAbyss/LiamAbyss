@@ -4,9 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2025 - To: 02 December 2025
+From: 27 November 2025 - To: 04 December 2025
 
-No activity tracked
+GDScript3        6 mins          ██████████████████▓░░░░░░   74.94 %
+GDScript         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Godot Resource   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
