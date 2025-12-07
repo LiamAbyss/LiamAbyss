@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2025 - To: 05 December 2025
+From: 29 November 2025 - To: 06 December 2025
 
-GDScript3        6 mins          ██████████████████▓░░░░░░   74.94 %
-GDScript         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Godot Resource   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+GDScript3        9 mins          ███████████████████▒░░░░░   77.89 %
+Godot Resource   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+GDScript         1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
