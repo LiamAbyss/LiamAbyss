@@ -4,13 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2025 - To: 11 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-YAML             1 hr 8 mins     █████████████████████░░░░   84.32 %
-Other            7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-GDScript3        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Godot Resource   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+YAML    1 hr 8 mins     ██████████████████████▒░░   89.91 %
+Other   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
