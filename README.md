@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
-YAML    1 hr 8 mins     ██████████████████████▒░░   89.91 %
-Other   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+YAML    27 mins         ███████████████████▓░░░░░   78.67 %
+Other   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
 ```
 
 <!--END_SECTION:waka-->
