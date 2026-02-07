@@ -4,9 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-No activity tracked
+Rust   54 mins         ██████████████████████▒░░   89.41 %
+CSS    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+TOML   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
