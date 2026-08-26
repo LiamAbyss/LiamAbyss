@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2026 - To: 24 August 2026
+From: 18 August 2026 - To: 25 August 2026
 
-YAML       17 mins               ███████████████░░░░░░░░░░   59.64 %
-Markdown   11 mins               ██████████░░░░░░░░░░░░░░░   40.20 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown   11 mins               █████████████▓░░░░░░░░░░░   54.21 %
+YAML       9 mins                ███████████▒░░░░░░░░░░░░░   45.79 %
 ```
 
 <!--END_SECTION:waka-->
